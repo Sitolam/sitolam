@@ -21,5 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sitolam&show_icons=true&locale=en&theme=onedark" alt="sitolam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sitolam&theme=default" alt="sitolam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sitolam&theme=dark" alt="sitolam" /></p>
 
