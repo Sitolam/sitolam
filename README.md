@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sitolam&label=Profile%20views&color=21a1de&style=plastic" alt="sitolam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sitolam" alt="sitolam" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sitolam&theme=onedark" alt="sitolam" /></a> </p>
 
 - 🔭 I’m currently working on [hyprdots](https://github.com/Sitolam/hyprdots)
 
